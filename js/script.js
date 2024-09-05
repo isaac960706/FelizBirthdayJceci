@@ -160,7 +160,7 @@ var init = function () {
         // Verificar si el corazón está grande (puedes ajustar el valor de 0.8)
         if (n > 0.8) {
             ctx.fillText("Feliz cumpleaños", textX, textY - 10); // Texto y posición (salto de línea ajustado)
-            ctx.fillText("Jessica Cecilia", textX, textY + 20); // Texto y posición (salto de línea ajustado)
+            ctx.fillText("Mi Werita Preciosa", textX, textY + 20); // Texto y posición (salto de línea ajustado)
         }
 
         window.requestAnimationFrame(loop, canvas);
